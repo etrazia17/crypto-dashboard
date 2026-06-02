@@ -70,7 +70,7 @@ git clone https://github.com/etrazia17/crypto-dashboard.git
 ### 2️⃣ Navigate to Project Folder
 
 ```bash
-cd crypto-dashboard
+cd crypto-dashboard-main
 ```
 
 ### 3️⃣ Install Dependencies
@@ -135,17 +135,19 @@ This project demonstrates:
 
 ## 📷 Screenshots
 
-### Dashboard
+## 📷 Screenshots
 
-_Add project screenshots here._
+### Main Dashboard
 
-Example:
+![Main Dashboard](screenshots/crypto-dashboard-main.png)
 
-```text
-screenshots/crypto-dashboard-main.png
-screenshots/dashboard-search.png
-screenshots/dashboard-light-mode.png
-```
+### Search Functionality
+
+![Search Functionality](screenshots/dashboard-search.png)
+
+### Light Mode
+
+![Light Mode](screenshots/dashboard-light-mode.png)
 
 ---
 
